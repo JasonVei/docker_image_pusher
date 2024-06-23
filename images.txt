@@ -4,4 +4,4 @@
 stilleshan/frps:latest
 stilleshan/frpc:latest
 jxxghp/moviepilot:latest
-wvp_pro
+648540858/wvp_pro:latest
