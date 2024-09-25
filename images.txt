@@ -5,3 +5,4 @@ stilleshan/frps:latest
 stilleshan/frpc:latest
 jxxghp/moviepilot:latest
 648540858/wvp_pro:latest
+vaultwarden/server:latest
